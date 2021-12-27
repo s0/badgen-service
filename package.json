@@ -15,7 +15,7 @@
     "postdeploy": "now -T amio alias"
   },
   "dependencies": {
-    "axios": "^0.18.0",
+    "axios": "^0.21.2",
     "badgen": "^2.4.3",
     "byte-size": "^4.0.3",
     "cheerio": "^1.0.0-rc.2",
